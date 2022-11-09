@@ -1,5 +1,3 @@
-# SkillFactory QAP-89 задание 19.3.3
-
 import requests
 import json
 from datetime import datetime, timezone
